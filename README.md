@@ -1,1 +1,12 @@
 # IBM_Data_Science
+
+## What is Data Science? (Week 1)
+
+Data science is the study of large quantities of data, which can reveal insights that help organizations make strategic choices.
+
+Data scientists need to be curious, judgemental and argumentative.
+
+a little science + a little math + a lot of curiosity about data.
+
+**The sexiest job in the 21st century! (Do you really believe this haha?)**
+
