@@ -76,3 +76,13 @@ In this lesson, you have learned:
 2.  The “deep” in deep learning is referring to the **depth of layers in a neural network.** A neural network that consists of **more than three layers, which would be inclusive of the inputs and the output** —can be considered a deep learning algorithm. This is generally represented using the following diagram:
 
 ![formula](image/deep-learning.png)
+
+### Summary
+
+1. The differences between some common Data Science terms, including Deep Learning and Machine Learning.
+
+2. Deep Learning is a type of Machine Learning that simulates human decision-making using neural networks.
+
+3. Machine Learning has many applications, from recommender systems that provide relevant choices for customers on commercial websites, to detailed analysis of financial markets.
+
+4. [How to use regression to analyze data. (house price through regression)](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0101EN-SkillsNetwork/labs/Module%202/Reading_Regression.md.html?origin=www.coursera.org)
