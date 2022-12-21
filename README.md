@@ -64,3 +64,15 @@ In this lesson, you have learned:
 | | | |  Artificial neural networks, often referred to simply as neural networks, take inspiration from biological neural networks, although they work quite a bit differently. A neural network in AI is a collection of small computing units called neurons that take incoming data and learn to make decisions over time. |
 
 **There is some interaction between AI and Data Science, but one is not a subset of the other. Rather, Data Science is a broad term that encompasses the entire data processing methodology while AI includes everything that allows computers to learn how to solve problems and make intelligent decisions. Both AI and Data Science can involve the use of big data. That is, significantly large volumes of data.**
+
+### [Neural Networks and Deep Learning](https://www.ibm.com/cloud/blog/ai-vs-machine-learning-vs-deep-learning-vs-neural-networks)
+
+![key-terms](image/key-terms.png)
+
+1. Neural networks—and more specifically, artificial neural networks (ANNs)—mimic the human brain through a set of algorithms. At a basic level, a neural network is comprised of four main components: inputs, weights, a bias or threshold, and an output. Similar to linear regression, the algebraic formula would look something like this:
+
+![formula](image/formula.png)
+
+2.  The “deep” in deep learning is referring to the **depth of layers in a neural network.** A neural network that consists of **more than three layers, which would be inclusive of the inputs and the output** —can be considered a deep learning algorithm. This is generally represented using the following diagram:
+
+![formula](image/deep-learning.png)
