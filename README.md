@@ -101,3 +101,23 @@ In this lesson, you have learned:
 
 5. The purpose of the final deliverable of a Data Science project is to communicate new information and insights from the data analysis to key decision-makers.
 
+## Careers and Recruiting in Data Science (Week 3 - 2022/12/23)
+
+### Summary
+1. Data Scientists need programming, mathematics, and database skills, many of which can be gained through self-learning.
+
+2. Companies recruiting for a Data Science team need to understand the variety of different roles Data Scientists can play, and look for soft skills like storytelling and relationship building as well as technical skills.
+
+3. High school students considering a career in Data Science should learn programming, math, databases, and, most importantly practice their skills.
+
+## The Report Structure (Week 3 - 2022/12/23)
+
+### [Summary](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0101EN-SkillsNetwork/labs/Module%203/ReadingReportStructure.md.html?origin=www.coursera.org)
+1. The length and content of the final report will vary depending on the needs of the project.
+
+2. The structure of the final report for a Data Science project should include a cover page, table of contents, executive summary, detailed contents, acknowledgements, references and appendices.
+
+3. The report should present a thorough analysis of the data and communicate the project findings.
+
+
+
